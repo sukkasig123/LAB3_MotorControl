@@ -1,0 +1,5 @@
+ averageRisingedgePeriod
+motor_rpm
+MotorControlEnable
+duty
+MotorSetRPM
